@@ -8,12 +8,13 @@ It allows two players to play against each other on the same device.
 ## 📸 Screenshots
 
 ### Game Interface
-![Game Screenshot](assets/images/.png)
+![Game Screenshot](assets/images/one.png)
 
 *(Note: Add a screenshot image inside the `assets/images/` folder and update the file name here)*
 
 ---
-
+![Game Screenshot](assets/images/two.png)
+![Game Screenshot](assets/images/three.png)
 ## ⚙️ Features
 - Two-player mode (Player X vs Player O).
 - Turn indicator showing the current player.
