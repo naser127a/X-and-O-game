@@ -8,7 +8,7 @@ It allows two players to play against each other on the same device.
 ## 📸 Screenshots
 
 ### Game Interface
-![Game Screenshot](assets/images/game-screenshot.png)
+![Game Screenshot](assets/images/.png)
 
 *(Note: Add a screenshot image inside the `assets/images/` folder and update the file name here)*
 
