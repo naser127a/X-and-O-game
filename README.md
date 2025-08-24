@@ -8,19 +8,20 @@ It allows two players to play against each other on the same device.
 ## 📸 Screenshots
 
 ### Game Interface
-![Game Screenshot](assets/images/one.png)
+![Game Screenshot](images/one.png)
+![Game Screenshot](images/two.png)
+![Game Screenshot](images/three.png)
 
-*(Note: Add a screenshot image inside the `assets/images/` folder and update the file name here)*
+*(Make sure screenshots are inside `assets/images/` folder)*
 
 ---
-![Game Screenshot](assets/images/two.png)
-![Game Screenshot](assets/images/three.png)
+
 ## ⚙️ Features
-- Two-player mode (Player X vs Player O).
-- Turn indicator showing the current player.
-- Winner detection with a line across the winning row/column/diagonal.
-- Draw detection (when the board is full and no winner).
-- Restart button to play again.
+- 🎯 Two-player mode (Player X vs Player O).
+- 🔄 Turn indicator showing the current player.
+- 🏆 Winner detection with a line across the winning row/column/diagonal.
+- 🤝 Draw detection (when the board is full and no winner).
+- ♻️ Restart button to play again.
 
 ---
 
@@ -28,5 +29,4 @@ It allows two players to play against each other on the same device.
 
 1. Clone the repository:
    ```bash
-   git clone  https://github.com/naser127a/X-and-O-game
- 
+   git clone https://github.com/naser127a/X-and-O-game.git
